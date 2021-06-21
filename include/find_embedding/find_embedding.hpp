@@ -19,6 +19,7 @@
 #include <set>
 #include <string>
 #include <vector>
+#include <cassert>
 
 #include "graph.hpp"
 #include "pathfinder.hpp"
